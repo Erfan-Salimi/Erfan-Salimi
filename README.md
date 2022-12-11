@@ -16,4 +16,4 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erfan-salimi&show_icons=true&locale=en&layout=compact" alt="erfan-salimi" /></p> -->
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erfan-salimi&show_icons=true&locale=en" alt="erfan-salimi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erfan-salimi&show_icons=true&locale=en" alt="erfan-salimi" /></p>
